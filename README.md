@@ -1,4 +1,4 @@
-<img src="[https://github.com/CodeSpire-Solutions/SMBSleepMounter/blob/main/SMBSleepMounter_Icon.png]" alt="App_Icon_Displaying a SMB Share Device and moons to get the Sleep Effect" width="200"/>
+<img src="[https://gaming.codespiresolutions.digital/SMBSleepMounter_Icon.png]" alt="App_Icon_Displaying a SMB Share Device and moons to get the Sleep Effect" width="200"/>
  
 # SMBSleepMounter
 ## Description
