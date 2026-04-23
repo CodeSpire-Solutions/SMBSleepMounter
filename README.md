@@ -1,4 +1,4 @@
-![App Icon](https://github.com/CodeSpire-Solutions/SMBSleepMounter/SMBSleepMounter_ICON.png)
+![App Icon](https://github.com/CodeSpire-Solutions/SMBSleepMounter/blob/main/SMBSleepMounter_Icon.png)
  
 # SMBSleepMounter
 ## Description
